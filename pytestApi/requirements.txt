@@ -1,0 +1,5 @@
+jsonpath==0.82
+openpyxl==3.0.9
+PyMySQL==1.0.2
+pytest==7.1.2
+requests==2.27.1
